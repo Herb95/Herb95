@@ -19,6 +19,27 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Herb95)
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=Herb95)
 
+### GitHub 连续打卡
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Herb95)
 
-![](https://stats.justsong.cn/api/zhihu?username=a-bin-49-33&cn=true)
+### Github社交
+
+![](https://stats.justsong.cn/api/leetcode?username=Herb95&cn=true)
+
+### 知乎社交统计
+
+![](https://stats.justsong.cn/api/zhihu?username=a-bin-49-33)
+
+### GitHub 活动统计图
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Herb95)
+
+
+### 贪吃蛇
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Herb95/Herb95/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Herb95/Herb95/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Herb95/Herb95/output/github-contribution-grid-snake.svg">
+</picture>
