@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Herb95)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Herb95)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Herb95&count_private=true)
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=Herb95)
 
 ### GitHub 连续打卡
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ### Github社交
 
-![](https://stats.justsong.cn/api/leetcode?username=Herb95&cn=true)
+![leetcode](https://stats.justsong.cn/api/leetcode?username=Herb95&cn=true)
 
 ### 知乎社交统计
 
