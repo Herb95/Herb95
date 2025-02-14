@@ -31,19 +31,19 @@ Here are some ideas to get you started:
 
 ### GitHub 连续打卡
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Herb95)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Herb95&theme=algolia)
 
 ### Github社交
 
-![leetcode](https://stats.justsong.cn/api/leetcode?username=Herb95&cn=true)
+![leetcode](https://stats.justsong.cn/api/leetcode?username=Herb95&cn=true&theme=algolia)
 
 ### 知乎社交统计
 
-![zhihu](https://stats.justsong.cn/api/zhihu?username=a-bin-49-33)
+![zhihu](https://stats.justsong.cn/api/zhihu?username=a-bin-49-33&theme=algolia)
 
 ### GitHub 活动统计图
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Herb95)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Herb95&theme=algolia)
 
 
 ### 贪吃蛇
