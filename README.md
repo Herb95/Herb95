@@ -1,7 +1,11 @@
-## Hi there 👋
-
 <!--
 **Herb95/Herb95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=Herb95)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Herb95&theme=algolia&show_icons=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Herb95&count_private=true&show_icons=true&theme=algolia)
 
 Here are some ideas to get you started:
 
@@ -14,10 +18,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Herb95)
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="I'm Herb"/></a></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Herb95&count_private=true)
-![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=Herb95)
+<br />
+
+🌱 Dark, coquettish Bana, even covered the pain, do not want to let go, have long forgotten how to smile.
+
+**About me**
+
+| <a href="https://herb95.github.io/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Herb95&show_icons=true&include_all_commits=true&hide_border=true&theme=algolia" alt="Herb95 github stats" /></a> | <a href="https://herb95.github.io/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herb95&layout=compact&hide_border=true&theme=algolia" /></a> |
+| ------------- | ------------- |
 
 ### GitHub 连续打卡
 
@@ -29,7 +39,7 @@ Here are some ideas to get you started:
 
 ### 知乎社交统计
 
-![](https://stats.justsong.cn/api/zhihu?username=a-bin-49-33)
+![zhihu](https://stats.justsong.cn/api/zhihu?username=a-bin-49-33)
 
 ### GitHub 活动统计图
 
