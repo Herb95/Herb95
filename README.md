@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="I'm Herb"/></a></p>
+<p align="center"><a href="https://anuraghazra.github.io" alt="I'm Herb"></a></p>
 
 <br />
 
